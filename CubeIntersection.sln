@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeIntersection", "CubeIntersection\CubeIntersection.csproj", "{002B90E2-6FAB-4B07-80CD-33F883F2B8D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeIntersectionTests", "UnitTestProject1\CubeIntersectionTests.csproj", "{E6A91A55-57E5-4E40-A6D0-73CDBBB9AB7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{002B90E2-6FAB-4B07-80CD-33F883F2B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{002B90E2-6FAB-4B07-80CD-33F883F2B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{002B90E2-6FAB-4B07-80CD-33F883F2B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A91A55-57E5-4E40-A6D0-73CDBBB9AB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A91A55-57E5-4E40-A6D0-73CDBBB9AB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A91A55-57E5-4E40-A6D0-73CDBBB9AB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A91A55-57E5-4E40-A6D0-73CDBBB9AB7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
